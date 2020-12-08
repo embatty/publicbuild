@@ -1,0 +1,18 @@
+name: QC
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bedtools=2.29.2
+  - biopython=1.78
+  - fastqc=0.11.9
+  - matplotlib-base=3.1.1
+  - multiqc=1.8
+  - numpy=1.19.4
+  - pandas=1.1.4
+  - pip=20.3.1
+  - python=3.8.6
+  - samtools=1.7
+  - seaborn=0.10.1
+  - snp-dists=0.7.0
